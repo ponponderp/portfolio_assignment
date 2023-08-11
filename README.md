@@ -1,6 +1,6 @@
 # 🌐 **Final Portfolio Project: Agile Web Development with NextJS**
 
-Youtube Video: 
+Youtube Video: https://youtu.be/Bk56jdm4zA4
 
 Website: http://alyssamaravilla.me/portfolio_assignment/ 
 
